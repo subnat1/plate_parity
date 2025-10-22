@@ -10,7 +10,7 @@ You’re driving. You see a number plate — say `4312`.
 Your brain, instead of doing something useful, decides it wants balance.  
 
 So you add one `=` somewhere and try to make the digits **mathematically equal** using  
-`+, -, *, %, ^, !, |x|`, and parentheses.
+`+, -, *, ^, !, |x|`, and parentheses.
 
 Example:
 4 - 3 + 1 = 2
