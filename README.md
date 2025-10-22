@@ -47,7 +47,6 @@ That’s **PlateParity** — equal parts logic, math, and traffic boredom.
 | `4312` | `4 - 3 + 1 = 2` | Straight arithmetic |
 | `5226` | `(5 - 2)! = 2 + 6` | `(3)! = 6 + 2 → 6 = 8` (false, so not valid) |
 | `5234` | `(5 - 2)! = (3 + 4)` | `3! = 7 → 6 = 7` (false, but close) |
-| `3516` | `3 = |5 - (1 + 6)|` | RHS → |5 - 7| = 2 → nope (just teasing) |
 
 Try your own — you’ll quickly realize some plates are unsolvable, which makes it oddly addictive.
 
